@@ -21,7 +21,7 @@ tags:
 ---------------------------分割线又来了-----------------------------------
 ## 补充的一些知识
 1. iframe，例如js bin，你写的代码都是放在iframe标签中展示。不信可以去js.jirengu.com去检查
-- 用iframe嵌套QQ的官网`<iframe src="http://qq.com" frameborder="0"></iframe>
+- 用iframe嵌套QQ的官网`<iframe src="http://qq.com"frameborder="0"></iframe>`
 - iframe标签中，当src="#"，意味当前页面为空
 - a标签中的target如果指向iframe标签的name，即在iframe中打开a标签的网址
 - iframe标签中，src也可以写相对路径。（HTML续第四个视频07:20）
