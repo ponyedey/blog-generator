@@ -107,5 +107,8 @@ left: 0;
 19. 当图标上下空间不一样，写`vertical-align: top;`
 20. `border-radius: 50%;`可以把包裹的边框变成圆形
 21. 写高度的时候一定要记得写行高，会比较好
+22. href会跳到外部，src一般在页面内呈现
+23. margin在ie下有bug
+24. border-box和padding一同使用比较好
 
 
